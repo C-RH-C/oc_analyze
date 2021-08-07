@@ -15,7 +15,7 @@ In a sequence, a directory will be created, for example `must-gather.local.12384
 
 You can create a tarball of this directory and send to the support. If you would like to execute this script on this dir, definitely you can
 ```
-# wget https://raw.githubusercontent.com/waldirio/c.rh.c-tools/master/oc_analyze/oc_analyze.sh
+# wget https://raw.githubusercontent.com/C-RH-C/oc_analyze/master/oc_analyze.sh
 # chmod +x oc_analyze.sh
 # ./oc_analyze.sh must-gather.local.1238484050365797922
 ```
